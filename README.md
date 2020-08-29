@@ -27,4 +27,4 @@ WiFiBot Application :
 -Application acts as a client which uses IP address of the Raspberry Pi (the server) and  thus connects, and performs the operation of controlling the bot. It consists of 4 Buttons, 1 Edit-Text, 1 Text-Box. When a button is clicked a connection is made between the application and raspberry pi and the motion is carried. Connections are made using the socket programming class in java, which needs IP address and port number as the input.
 
 #### Snapshots of the Bot
-<img src="images/bot1.jpeg" width="400" height="400" alt="Bot pic 1">  <img src="images/bot2.jpeg" width="400" height="400" alt="Bot pic 2">  <img src="images/bot3.jpeg" width="50%" height="50%" alt="Bot pic 2">
+<img src="images/bot1.jpeg" width="50%" height="50%" alt="Bot pic 1">  <img src="images/bot2.jpeg" width="50%" height="50%" alt="Bot pic 2">  <img src="images/bot3.jpeg" width="50%" height="50%" alt="Bot pic 2">
