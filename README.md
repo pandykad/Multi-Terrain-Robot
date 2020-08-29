@@ -11,7 +11,7 @@ An Android app connects to the server cloud created by the Raspberry Pi to contr
 The multi-terrain bot uses Python scripts to walk on various surfaces. Each leg of the bot is programmed separately to give us more customisability over its walking style. The walking gait of the bot is inspired from spiders. Although a spider has more than 4 legs, it moves its legs distinctively unlike that of any four legged creature. For example, a dog or a cat walk forward with moving its alternate or side legs simultaneously. This walking gait may not be practical in a rocky surface as the bot make collapse or one of its leg can get caught in between rocks. That’s why chose a spider-like gait.
 
 ## Flowchart
-![Flowchart](https://github.com/AmeyaK17/Multi-Terrain-Robot/blob/master/images/img-3.png)
+![Flowchart](https://github.com/AmeyaK17/Multi-Terrain-Robot/blob/master/images/image3.png)
 
 Each leg of the bot is made of two servos. In our cases the servo motors gave us the correct angles at a slightly different duty cycle. For example, it gave us the correct 90 degrees at a 7 duty cycle instead of 7.5. Therefore, we had to calibrate each motor using the formula, req_dutycycle=((req_angle/18)+2). 
 
