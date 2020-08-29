@@ -16,7 +16,7 @@ The multi-terrain bot uses Python scripts to walk on various surfaces. Each leg 
 Each leg of the bot is made of two servos. In our cases the servo motors gave us the correct angles at a slightly different duty cycle. For example, it gave us the correct 90 degrees at a 7 duty cycle instead of 7.5. Therefore, we had to calibrate each motor using the formula, req_dutycycle=((req_angle/18)+2). 
 
 #### Connections
-<img src="images/connections.png" width="25%" alt="Connections">
+<img src="images/connections.png" width="35%" alt="Connections">
 
 ### Walking GAIT: 
 Initially, all the eight servos are set to 90 degrees. The knee servo of the Leg_1 servo rotates the lower limb to 45 degrees and the the thigh servo rotates the whole leg to 45 degrees. The knee servo then again rotates the lower limb back to 90 degrees, so that the bot is back on four legs. This process rotates for all four legs. Once all four thigh servos of the legs are at 45 degrees, the reset back to 90 degrees pushing the bot forward. This process goes on continuously until the loop terminates.
