@@ -3,6 +3,10 @@
 ### Overview
 Many applications that include search and rescue, surveillance and security, require information about an unexplored terrain that may be potentially hazardous for humans. To explore such places we need mobile autonomous robots with multi-terrain traversing capability. Robotic platforms suitable for these applications can be wheeled, legged or one of the many other types in between. Wheeled robots are very efficient on smooth and continuous surfaces but suffer serious limitations in rough terrain and discontinuous paths. On the contrary, legged robots provides superior mobility in natural terrain. They adapt to surface irregularities by using discrete footholds and making contact with ground at the selected points.
 
+### See the video!
+[![Demo](https://j.gifs.com/5QZG1R.gif)](https://youtu.be/38PsUOlYllE)
+
+
 ### Technologies used
 Raspberry Pi 3 model B is used to control and assemble the robot. The robot runs Python 2 scripts for walking. Simple and small servo motors are used to control the rotation of legs and lower limbs through specific angles. The Raspberry Pi has Raspian OS pre-installed on it. Therefore, all codes run on a Linux environment
 An Android app connects to the server cloud created by the Raspberry Pi to control the bot wirelessly. The Android app is compatible with any android version greater than 4.0.
