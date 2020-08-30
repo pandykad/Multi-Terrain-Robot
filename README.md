@@ -4,7 +4,7 @@
 Many applications that include search and rescue, surveillance and security, require information about an unexplored terrain that may be potentially hazardous for humans. To explore such places we need mobile autonomous robots with multi-terrain traversing capability. Robotic platforms suitable for these applications can be wheeled, legged or one of the many other types in between. Wheeled robots are very efficient on smooth and continuous surfaces but suffer serious limitations in rough terrain and discontinuous paths. On the contrary, legged robots provides superior mobility in natural terrain. They adapt to surface irregularities by using discrete footholds and making contact with ground at the selected points.
 
 ### See the video!
-[![Demo](https://gifs.com/gif/bot-5QZG1R)](https://www.youtube.com/watch?v=38PsUOlYllE)
+[![Bot](https://gifs.com/gif/bot-5QZG1R)](https://www.youtube.com/watch?v=38PsUOlYllE)
 
 
 ### Technologies used
