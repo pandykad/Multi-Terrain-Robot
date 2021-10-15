@@ -1,0 +1,7 @@
+- Andriod version 4.0 and above
+- Raspberry Pi 3 and above
+- Servo Motors
+- Connecting wires
+- Breadboard
+- Chikatpatti
+- Coolness
